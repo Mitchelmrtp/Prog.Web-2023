@@ -1,0 +1,7 @@
+1. Unzip
+2. Run file PostGreSQL-Start.bat
+3. You can also run PgAdmin4.bat (UI)
+
+Usuario: postgres Clave:123
+
+primero corre el postgress. luego el backend y al final en front 
